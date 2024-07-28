@@ -1,7 +1,7 @@
 # Transaction Dashboard
 MERN Stack Challenge by Roxiler
 <br/>
-View live app via this [Link]([https://roxiler-transactions-dashboard.onrender.com](https://roxiler-frontend-pv4f.onrender.com)/)
+View live app 
 <br/>
 <br/>
 Frontend Technologies
