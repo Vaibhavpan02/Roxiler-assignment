@@ -1,7 +1,7 @@
 # Transaction Dashboard
-![Homepage View](./Screenshots/ss1.png)
+![Homepage View](./Screenshots/ss3.png)
 ![View](./Screenshots/ss2.png)
-![bar View](./Screenshots/ss3.png)
+![bar View](./Screenshots/ss1.png)
 MERN Stack Challenge by Roxiler
 <br/>
 View live app 
